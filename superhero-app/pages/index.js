@@ -1,4 +1,6 @@
 //Este arquivo é a página principal que irá buscar e exibir os dados dos super-heróis.
+//Pedro Henrique Gonçalves - RA: 10439486
+
 import { useEffect, useState } from 'react';
 
 const ACCESS_TOKEN = "4995282617154105";
