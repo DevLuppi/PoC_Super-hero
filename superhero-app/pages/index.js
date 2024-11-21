@@ -1,5 +1,6 @@
 //Este arquivo é a página principal que irá buscar e exibir os dados dos super-heróis.
 //Pedro Henrique Gonçalves - RA: 10439486
+//Leonardo Luppi Vanni - RA: 10436603
 
 import { useEffect, useState } from 'react';
 
